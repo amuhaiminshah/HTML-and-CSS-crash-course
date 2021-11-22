@@ -76,7 +76,7 @@ HTML link are defined with the < a > tag:
 HTML Images are defined with the < img > tag.<br>
 The source file ( src ), alternative text ( alt ), width, and height are provided as attributes:
 #### For example:
-< img src="https://s3-ap-southeast-1.amazonaws.com/djamblog/article-180320105942.png" alt="Example of HTML Image">
+<img src="https://s3-ap-southeast-1.amazonaws.com/djamblog/article-180320105942.png" alt="Example of HTML Image">
 
 
 ### How to View HTML Source?
