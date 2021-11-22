@@ -1,4 +1,4 @@
-# HTML-and-CSS-crash-course.
+# HTML-and-CSS-crash-course
 ## What is HTML?
 <pre>
 <li>HTML stands for <strong> Hyper Text Markup Language. </strong> </li>
@@ -8,5 +8,11 @@
 <li>HTML elements tell the browser how to display the content that this is heading (h1, h2, h3, h4, h5, h6) and this is a paragraph and this is link and this is an image etc.</li>
 </pre>
 
-##A Simple HTML Docoment
-<img src=" https://miro.medium.com/max/1400/1*hQquTqhdj2DVCeeKNk-FGA.png" alt="Image of HTML docoment">
+## A Simple HTML Docoment
+<img src="https://miro.medium.com/max/1400/1*hQquTqhdj2DVCeeKNk-FGA.png" alt="Example of HTML docoment"> 
+
+### Explanation of this image
+<li>The <b>!DOCTYPE html</b> declaration defines that this document is an HTML5 document.</li> 
+<li>The html element is the root element of an HTML page.</li>
+<li>The head element contains meta information about the HTML page.</li>
+
