@@ -40,6 +40,7 @@ A browser does not display the HTML tags, it only display the content which is i
 <img src="https://www.w3schools.com/html/img_chrome.png" alt="Example of Web Browser"> 
 
 # Editor?
+### How to save the HTML work in <b>Windows</b>
 ##### Mostly people will be tinking where to write the code if you are beginner so first use <b>Notepad</b> or <b>Text Editor</b>.
 ## How to use the Notepad or Text editor?
 ### Step-1:
@@ -52,6 +53,9 @@ Then save the file on your computer and Name the file <b> "index html." </b>
 Open the save file on browser(<b>right click</b> on file and choose the <b>open with</b> any browser you have in your computer.<br>
 Your browser will looks like this:
 <img src="https://www.w3schools.com/html/img_chrome.png" alt="Example of browser">
+
+<also show that how to save the work in>
+
 
 # HTML Basic Examples
 
