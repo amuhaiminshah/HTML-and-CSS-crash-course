@@ -8,7 +8,7 @@ HTML elements tell the browser how to display the content that this is heading (
 <b>NOTE</b> There is no space between the angle bracket and tagname you have to remember.< h1 >
 
 ## A Simple HTML Docoment
-<img src="https://miro.medium.com/max/1400/1*hQquTqhdj2DVCeeKNk-FGA.png" alt="Example of HTML docoment"> 
+<img src="https://github.com/amuhaiminshah/HTML-and-CSS-crash-course/blob/main/How%20to%20write%20link%20in%20html.png" alt="Example of HTML docoment"> 
 
 ### Explanation of this image
 <li>The <b>!DOCTYPE html</b> declaration defines that this document is an HTML5 document.</li> 
