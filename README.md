@@ -37,7 +37,7 @@ The purpose of a web browser (Chrome, Edge, Firefox, Safari) is to read HTML doc
 
 A browser does not display the HTML tags, it only display the content which is inside the tag.
 #### For example:
-<img src="https://www.w3schools.com/html/img_chrome.png" alt="Example of Web Browser"> 
+<img src="https://github.com/amuhaiminshah/HTML-and-CSS-crash-course/blob/main/Example%20of%20web%20browser.png" alt="Example of Web Browser"> 
 
 # Editor?
 ### How to save the HTML work in <b>Windows</b>
@@ -52,9 +52,9 @@ Then save the file on your computer and Name the file <b> "index html." </b>
 ### Step-3:
 Open the save file on browser(<b>right click</b> on file and choose the <b>open with</b> any browser you have in your computer.<br>
 Your browser will looks like this:
-<img src="https://www.w3schools.com/html/img_chrome.png" alt="Example of browser">
+<img src="https://github.com/amuhaiminshah/HTML-and-CSS-crash-course/blob/main/Example%20of%20web%20browser.png" alt="Example of browser">
 
-<also show that how to save the work in>
+<also show that how to save the work in ubuntu>
 
 
 # HTML Basic Examples
@@ -64,23 +64,23 @@ HTML headings are defined with the <b>< h1 ></b> to <b>< h6 ></b> tags.<br>
 < h1 > defines the most important heading. < h6 > defines the least important heading
 <b> NOTE:</b> There are 6 heading in HTML.
 #### For example:
-<img src="https://seranking.com/blog/wp-content/uploads/2019/08/Diagrammatic-Representation-of-Heading-Tag-Hierarchy.png" alt="Example of Heading 1 to 6">
+<img src="https://github.com/amuhaiminshah/HTML-and-CSS-crash-course/blob/main/Example%20of%20web%20browser.png" alt="Example of Heading 1 to 6">
 
 ## HTML paragraphs
 HTML paragarphs are defined with the < p > tag:
 #### For example:
-<img src="https://www.techfry.com/images/articles/html/html-paragraph-tag.jpg" alt="Example of paragraph">
+<img src="https://github.com/amuhaiminshah/HTML-and-CSS-crash-course/blob/main/Example%20of%20web%20browser.png" alt="Example of paragraph">
 
 ## HTML Links
 HTML link are defined with the < a > tag:
 #### For example:
-<img src="https://www.guru99.com/images/image006(1).png" alt="Example of HTML Links">
+<img src="https://github.com/amuhaiminshah/HTML-and-CSS-crash-course/blob/main/How%20to%20write%20code%20for%20link%20in%20html.png" alt="Example of HTML Links">
 
 ## HTML Images
 HTML Images are defined with the < img > tag.<br>
 The source file ( src ), alternative text ( alt ), width, and height are provided as attributes:
 #### For example:
-<img src="https://s3-ap-southeast-1.amazonaws.com/djamblog/article-180320105942.png" alt="Example of HTML Image">
+<img src="https://github.com/amuhaiminshah/HTML-and-CSS-crash-course/blob/main/Example%20of%20link%20display.png" alt="Example of HTML Image">
 
 
 ### How to View HTML Source?
