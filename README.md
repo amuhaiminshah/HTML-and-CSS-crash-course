@@ -92,3 +92,27 @@ Right-click in an HTML page and select "View Page Source" (in Chrome) or "View S
 #### Inspect an HTML Element:
 Right-click on an element (or a blank area), and choose "Inspect" or "Inspect Element" to see what elements are made up of (you will see both the HTML and the CSS). You can also edit the HTML or CSS on-the-fly in the Elements or Styles panel that opens.
 
+## HTML Attributes
+### What is html attributes?
+<li>All HTML attributes can have <b>attributes</b></li><br>
+<li>Attributes provide <b>additional information</b> about elements</li><br>
+<li>Attributes are always specified in the <b>start tag</b></li><br>
+
+### The href Attribute
+The <pre>< a ></pre> tag defines a <b>hyperlink</b>. The <pre>href</pre> attribute specifies the URL of the page the link goes to.
+#### For example:
+<a src="https://github.com/amuhaiminshah/HTML-and-CSS-crash-course/blob/main/Example%20of%20%3Ca%20href%3E%20tag.png" alt="Image of < a href >"
+
+## The src, width, height and alt attributes
+The <pre>< img ></pre> tag is used to embed an image in an HTML page. The <pre>src</pre> attribute specifies the path to the image to be displayed.
+The <pre>< img ></pre> tag should also contain the <pre>width</pre> and <pre>height</pre> attributes, which specifies the width and height of the image (in pixels).
+The required <pre>alt</pre> attribute for the <pre>< img ></pre> tag specifies an alternate text for an image, if the image for some reason cannot be displayed. This can be due to slow connection, or an error in the <pre>src</pre> attribute, or if the user uses a screen reader.
+#### For example:
+<img src="https://github.com/amuhaiminshah/HTML-and-CSS-crash-course/blob/main/pic%20of%20img%20tag.png" alt="Example of src attribute"
+
+
+
+
+
+
+
