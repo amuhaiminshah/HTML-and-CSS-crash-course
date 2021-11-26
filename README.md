@@ -99,16 +99,31 @@ Right-click on an element (or a blank area), and choose "Inspect" or "Inspect El
 <li>Attributes are always specified in the <b>start tag</b></li><br>
 
 ### The href Attribute
-The <pre>< a ></pre> tag defines a <b>hyperlink</b>. The <pre>href</pre> attribute specifies the URL of the page the link goes to.
+The <b>< a ></b> tag defines a <b>hyperlink</b>. The <b>href</b> attribute specifies the URL of the page the link goes to.
 #### For example:
-<a src="https://github.com/amuhaiminshah/HTML-and-CSS-crash-course/blob/main/Example%20of%20%3Ca%20href%3E%20tag.png" alt="Image of < a href >"
+<img src="https://github.com/amuhaiminshah/HTML-and-CSS-crash-course/blob/main/Example%20of%20%3Ca%20href%3E%20tag.png" alt="Image of < a href >">
 
-## The src, width, height and alt attributes
-The <pre>< img ></pre> tag is used to embed an image in an HTML page. The <pre>src</pre> attribute specifies the path to the image to be displayed.
-The <pre>< img ></pre> tag should also contain the <pre>width</pre> and <pre>height</pre> attributes, which specifies the width and height of the image (in pixels).
-The required <pre>alt</pre> attribute for the <pre>< img ></pre> tag specifies an alternate text for an image, if the image for some reason cannot be displayed. This can be due to slow connection, or an error in the <pre>src</pre> attribute, or if the user uses a screen reader.
+### The src, width, height and alt attributes
+The <b>< img ></b> tag is used to embed an image in an HTML page. The <b>src</b> attribute specifies the path to the image to be displayed.<br>
+The <b>< img ></b> tag should also contain the <b>width</b> and <b>height</b> attributes, which specifies the width and height of the image (in pixels).<br>
+The required <b>alt</b> attribute for the <b>< img ></b> tag specifies an alternate text for an image, if the image for some reason cannot be displayed. This can be due to slow connection, or an error in the <b>src</b> attribute, or if the user uses a screen reader.
 #### For example:
-<img src="https://github.com/amuhaiminshah/HTML-and-CSS-crash-course/blob/main/pic%20of%20img%20tag.png" alt="Example of src attribute"
+<img src="https://github.com/amuhaiminshah/HTML-and-CSS-crash-course/blob/main/pic%20of%20img%20tag.png" alt="Example of src attribute">
+
+### The style attribute
+The <b>style</b> attribute is used to add styles to an element, such as color, font, size, and more.
+#### For example:
+<img src="https://github.com/amuhaiminshah/HTML-and-CSS-crash-course/blob/main/style.png" alt="">
+
+### Heading
+HTML headings are defined with the <b>< h1 ></b> to <b>< h6 ></b> tags.<br>
+<b>< h1 ></b>defines the most important heading. <b>< h6 ></b> defines the least important heading.
+##### You know that how to write the code for heading.
+
+### How to style the heading?
+Each HTML heading has a default size. However, you can specify the size, font family, background-color etc for any heading with the <b>style</b> attribute.
+#### For example:
+<img src="https://github.com/amuhaiminshah/HTML-and-CSS-crash-course/blob/main/style.png" alt="style heading">
 
 
 
