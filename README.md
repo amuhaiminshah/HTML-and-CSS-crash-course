@@ -138,7 +138,7 @@ The <b>< hr ></b> tag defines a thematic break in an HTML page, and is most ofte
 ## Style tag
 The HTML <b>style</b> attribute is used to add styles to an element, such as color, font-family, , font-size, and more.
 #### How to write the <b>Syntax of style</b>
-<pre><tagname style="property:value;"></pre>
+<pre>< tagname style="property:value;" ></pre>
 
 
 
