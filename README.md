@@ -115,7 +115,7 @@ The <b>style</b> attribute is used to add styles to an element, such as color, f
 #### For example:
 <img src="https://github.com/amuhaiminshah/HTML-and-CSS-crash-course/blob/main/style.png" alt="">
 
-### Heading
+### Heading tag
 HTML headings are defined with the <b>< h1 ></b> to <b>< h6 ></b> tags.<br>
 <b>< h1 ></b>defines the most important heading. <b>< h6 ></b> defines the least important heading.
 ##### You know that how to write the code for heading.
@@ -125,8 +125,20 @@ Each HTML heading has a default size. However, you can specify the size, font fa
 #### For example:
 <img src="https://github.com/amuhaiminshah/HTML-and-CSS-crash-course/blob/main/style.png" alt="style heading">
 
+### Paragraph tag
+<b>< p ></b> This element define paragraph.<br>
+With HTML, you cannot change the display by adding extra spaces or extra lines in your HTML code.<br>
+The browser will automatically remove any extra spaces and lines when the page is displayed.<br>
+The <b>< hr ></b> tag defines a thematic break in an HTML page, and is most often displayed as a horizontal rule.<br>
+<b> < br ></b> </b> This command is used to brake the line. It has no end tag.<br>
+<b>< pre></b> Starting tag. <b> < /pre ></b> Closing tag. (pre) Defines pre-formatted text. The text inside a <b>< pre ></b> element is displayed in a fixed-width font (usually Courier), and it preserves both spaces and line breaks.
+#### For example:
+<img src="https://github.com/amuhaiminshah/HTML-and-CSS-crash-course/blob/main/paragraph%20tags.png" alt="paragraph tags">
 
-
+## Style tag
+The HTML <b>style</b> attribute is used to add styles to an element, such as color, font-family, , font-size, and more.
+#### How to write the <b>Syntax of style</b>
+<pre><tagname style="property:value;"></pre>
 
 
 
