@@ -135,11 +135,46 @@ The <b>< hr ></b> tag defines a thematic break in an HTML page, and is most ofte
 #### For example:
 <img src="https://github.com/amuhaiminshah/HTML-and-CSS-crash-course/blob/main/paragraph%20tags.png" alt="paragraph tags">
 
-## Style tag
+## Style attribute:
 The HTML <b>style</b> attribute is used to add styles to an element, such as color, font-family, , font-size, and more.
-#### How to write the <b>Syntax of style</b>
-<pre>< tagname style="property:value;" ></pre>
+#### How to write the <b>Syntax for style</b>
+<pre>< tagname style="property:value;" ></pre><br>
+The <b>property</b> is a CSS property. The <b>value</b> is a CSS value.
 
+### Background-color, color, font-family, text-size, text-alignment
+<li>Use the <b>style</b> attribute for styling HTML elements</li>
+<li>Use <b>background-color</b> for background color.</li>
+<li>Use <b>color</b> for text colors.</li>
+<li>Use <b>font-family</b> for text fonts.</li>
+<li>Use <b>font-size</b> for text sizes.</li>
+<li>Use <b>text-align</b> for text alignment.</li>
 
+#### For example:
+##### Input:
+<img src="https://github.com/amuhaiminshah/HTML-and-CSS-crash-course/blob/main/Style%20attributes.png" alt="Style attribute">
+
+##### Output:
+<img src="https://github.com/amuhaiminshah/HTML-and-CSS-crash-course/blob/main/Web%20browser.png" alt="Web brower">
+
+## HTML text formatting 
+<b>MHTML contains several elements for defining text with a special meaning</b>.</li>
+<li> <b> < b > </b> element defines bold text, without any extra importance.</li>
+<li> <b> < strong > </b> element defines text with strong importance. The content inside is typically displayed in bold.</li>
+<li> <b> < i > </b> element defines a part of text in an alternate voice or mood. The content inside is typically displayed in italic.</li><b>Tip:</b> A screen reader will pronounce the words in <em> with an emphasis, using verbal stress.<br>
+<li> <b> < em > </b> - Emphasized text.</li>
+<li> <b> < mark > </b> - Marked text or highlighted text.</li>
+<li> <b> < small > </b> - Smaller text.</li>
+<li> <b> < del > </b> element defines text that has been deleted from a document. Browsers will usually strike a line through deleted text.
+<li> <b> < ins > </b> element defines a text that has been inserted into a document. Browsers will usually underline inserted text.</li>
+<li> <b> < sub > </b> element defines subscript text. Subscript text appears half a character below the normal line, Subscript text can be used for chemical formulas, like H2O.</li>
+<li> <b> < sup > </b> element defines superscript text. Superscript text appears half a character above the normal line, Superscript text can be used for footnotes, like WWW[1].</li>
+
+#### For example:
+##### Input:
+<img src="https://github.com/amuhaiminshah/HTML-and-CSS-crash-course/blob/main/Formatting%20html%20code.png" alt="formatting html code">
+##### Output:
+<img src="https://github.com/amuhaiminshah/HTML-and-CSS-crash-course/blob/main/Formatting%20display.png" alt="dispay of formatting text">
+
+## HTML Quotation Elements
 
 
