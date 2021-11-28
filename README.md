@@ -176,5 +176,58 @@ The <b>property</b> is a CSS property. The <b>value</b> is a CSS value.
 <img src="https://github.com/amuhaiminshah/HTML-and-CSS-crash-course/blob/main/Formatting%20display.png" alt="dispay of formatting text">
 
 ## HTML Quotation Elements
+In this chapter we are going to cover the following elements:
+<p> < blockquote >,< q >, < abbr >, < address >, < cite >, and < bdo > </p>
+
+### Short Quotation
+<li> <b> < q > </b> This tag is used for small quotation.</li>
+<li> <b> < abbr > </b> This tag is used for abbreviation or an acronym, like "HTML", "CSS", "Mr.", "Dr.", "ASAP", "ATM".</li>
+<b>Tip:</b> Use the global title attribute to show the description for the abbreviation/acronym when you mouse over the element. 
+<li> <b> < address > </b> This tag is used for contact information for the author/owner of a document or an article.</li>
+<li> <b> < cite > </b> This tag defines the title of a creative work (e.g. a book, a poem, a song, a movie, a painting, a sculpture, etc.).</li>
+<b> NOTE:</b> A person's name is not the title of a work.
+<li> <b> < bdo dir="rtl or ltr"> </b> BDO stands for Bi-Directional Override. This tag is used to override the current text direction</li>
+<b> NOTE:</b> There <b>rtl</b> stands for <b>right to left</b> and <b>ltr</b> stands for <b>left to right</b><br>
+
+#### For example:
+
+##### Input:
+<img src="https://github.com/amuhaiminshah/HTML-and-CSS-crash-course/blob/main/Input%20of%20quotation" alt="Input of quotation">
+
+##### Output:
+<img src="https://github.com/amuhaiminshah/HTML-and-CSS-crash-course/blob/main/Output%20of%20quotation.png" alt="Output of quotation">
+
+## Comments
+### Add comment
+<b> < !-- content goes here -- ></b>
+
+### Hide content
+Comments can be used to hide content.
+<br>
+Which can be helpful if you hide content temporarily
+#### For example:
+< p >This is a first paragraph.< /p >
+
+< !-- <p>This is hide paragraph.< /p > -- >
+
+< p >This is a last paragraph too.< /p >
+
+### comment inline
+< p > This < !-- This is comment -- > is a paragraph.< /p >
+
+#### All comment example: 
+##### Input:
+<img src="https://github.com/amuhaiminshah/HTML-and-CSS-crash-course/blob/main/Input%20of%20comments.png" alt="Example of comment code">
+
+##### Output:
+<img src="https://github.com/amuhaiminshah/HTML-and-CSS-crash-course/blob/main/Output%20of%20comments.png" alt="Output example of comment">
+
+
+
+
+
+
+
+
 
 
