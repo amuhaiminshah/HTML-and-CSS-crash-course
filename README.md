@@ -330,7 +330,7 @@ To use an external style sheet, add a link to it in the <head> section of each H
 ##### NOTE:
 The external style sheet can be written in any text editor.
 
-##### "Style CSS
+##### Style CSS
 <pre>
 body {
   background-color: powderblue;
@@ -352,9 +352,9 @@ p {
 }
 </pre>
 
-##### How to Link to external CSS?
+#### How to Link to external CSS?
 External style sheets can be referenced with a full URL or with a path relative to the current web page.
 ###### For example:
 <pre>
-<link rel="stylesheet" href="style.css">
+< link rel="stylesheet" href="style.css" >
 </pre>
