@@ -222,12 +222,139 @@ Which can be helpful if you hide content temporarily
 ##### Output:
 <img src="https://github.com/amuhaiminshah/HTML-and-CSS-crash-course/blob/main/Output%20of%20comments.png" alt="Output example of comment">
 
+## Colors
+In HTML color can specified by using color name. You can use website or extension for color.
+#### For example:
+<a href="https://htmlcolors.com/google-color-picker">Click here</a>
+You can use this website for generate different type of color.<br>
+<b>Tip:</b> Just simply copy the code of color and use it.
+
+### Where to use the color:
+You can use the color to make the text colorful, background, border etc.<br>
+<b> For borders</b> the syntex is like this:<br>
+< h1 > style="border:value color name;" > Hello World < /h1 >
 
 
+#### For example:
+##### Input:
+<img src="https://github.com/amuhaiminshah/HTML-and-CSS-crash-course/blob/main/Input%20of%20border.png" alt="Input of color">
 
+##### Output:
+<img src="https://github.com/amuhaiminshah/HTML-and-CSS-crash-course/blob/main/Output%20of%20border.png" alt="Output of color">
 
+## Color value
+In HTML, colors can also be specified using RGB values, HEX values, HSL values, RGBA values, and HSLA values.
+### What is RGB?
+<b>rgb(red, green, blue)</b><br>
+Each parameter (red, green, and blue) defines the intensity of the color with a value between 0 and 255.<br>
 
+This means that there are 256 x 256 x 256 = 16777216 possible colors!<br>
 
+<b>For example,</b> rgb(255, 0, 0) is displayed as <b>red</b>, because red is set to its highest value (255), and the other two (green and blue) are set to 0.<br>
 
+Another example, rgb(0, 255, 0) is displayed as <b>green</b>, because green is set to its highest value (255), and the other two (red and blue) are set to 0.<br>
 
+To display <b>black</b>, set all color parameters to 0, like this: rgb(0, 0, 0).<br>
 
+To display <b>white</b>, set all color parameters to 255, like this: rgb(255, 255, 255).<br>
+<img src="https://www.maketecheasier.com/assets/uploads/2020/01/color-models-rgb.png.webp" alt="color models(rbg).">
+### What is RGBA?
+<b>rgba(red, green, blue, alpha)</b>
+Here <b>alpha</b> specifies the opacity for a color.<br>
+The alpha parameter is a number between 0.0 (fully transparent) and 1.0 (not transparent at all).
+#### NOTE:
+There are HEX, HSL, HSLA values if you want to learn more about the color these values so try to search in google.<br>
+
+## HTML CSS
+### What is CSS?
+<b>CSS</b> stands for <b>Cascading Style Sheets.</b> <br>
+<b>CSS</b> saves a lot of work. It can control the layout of multiple web pages all at once.
+Cascading Style Sheets (CSS) is used to format the layout of a webpage.<br>
+
+With CSS, you can control the color, font, the size of text, the spacing between elements, how elements are positioned and laid out, what background images or background colors are to be used, different displays for different devices and screen sizes, and much more!
+<b> Tip: </b> The word cascading means that a style applied to a parent element will also apply to all children elements within the parent. So, if you set the color of the body text to "blue", all headings, paragraphs, and other text elements within the body will also get the same color (unless you specify something else)!
+
+### How to use CSS?
+CSS can be added to HTML documents in 3 ways:<br>
+
+<li> <b> Inline </b> - by using the style attribute inside HTML elements. </li> <br>
+<li> <b> Internal </b> - by using a <b>< style ></b> element in the <b>< head ></b> section </li> <br>
+<li> <b> External </b> - by using a <b>< link ></b> element to link to an external CSS file. </li> <br>
+The most common way to add CSS, is to keep the styles in external CSS files. However, in this repository we will use inline and internal styles, because this is easier to demonstrate, and easier for you to try it yourself.
+
+#### Inline CSS
+An inline CSS uses the <b>style</b> attribute of an HTML element.
+##### For example:
+< h1 style="color:blue;"> This blue heading. < /h1 >
+
+#### Internal CSS
+An internal CSS is defined in the <b>< head > </b> section of an HTML page, within a <b> < style > </b> element.
+##### For example:
+<pre>
+< !DOCTYPE html >
+< html >
+< head >
+< style >
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+< /style >
+< /head >
+< body >
+
+< h1 >This is a heading< /h1 >
+< p >This is a paragraph.< /p >
+
+< /body >
+< /html >
+</pre>
+
+#### External CSS
+An external style sheet is used to define the style for many HTML pages.<br>
+To use an external style sheet, add a link to it in the <head> section of each HTML page
+##### For example:
+<pre>
+< !DOCTYPE html >
+< html >
+< head >
+ <b> < link rel="stylesheet" href="styles.css" > </b>
+< /head >
+< body >
+
+< h1 >This is a heading< /h1 >
+< p>This is a paragraph.< /p >
+
+< /body >
+< /html >
+</pre>
+##### NOTE:
+The external style sheet can be written in any text editor.
+
+##### "Style CSS
+<pre>
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: blue;
+}
+p {
+  color: red;
+}
+</pre>
+<b> NOTE:</b>
+With an external style sheet, you can change the look of an entire web site, by changing one file!
+
+#### CSS padding
+<pre>
+p {
+  border: 2px solid powderblue;
+}
+</pre>
+
+##### How to Link to external CSS?
+External style sheets can be referenced with a full URL or with a path relative to the current web page.
+###### For example:
+<pre>
+<link rel="stylesheet" href="style.css">
+</pre>
