@@ -391,7 +391,7 @@ A local link (a link to a page within the same website) is specified with a rela
 #### For example:
 <pre>
 <h2>Absolute URLs</h2>
-<p><a href="https://github.com/amuhaiminshah/">W3C</a></p>
+<p><a href="https://github.com/amuhaiminshah/">github.com/amuahiminshah</a></p>
 <p><a href="https://www.google.com/">Google</a></p>
 
 <h2>Relative URLs</h2>
