@@ -383,5 +383,5 @@ By default, the linked page will be displayed in the current browser window. To 
 <li> <b>_top </b> - Opens the document in the full body of the window </li> <br>
 #### For example:
 <pre>
-<a href="https://github.com/amuhaiminshah" target="_blank">Learn HTML< /a >
+< a href="https://github.com/amuhaiminshah" target="_blank">Learn HTML< /a >
 </pre>
