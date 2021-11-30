@@ -364,12 +364,24 @@ HTML links are hyperlinks.<br>
 
 You can click on a link and jump to another document. <br>
 <b> NOTE:</b> A link does not have to be text. A link can be an image or any other HTML element.
-### Link- Syntex
+
+### Syntex
 The HTML <a> tag defines a hyperlink. It has the following syntax:
 <pre>
 < a href="url">link text < /a >
 </pre>
 The most important attribute of the <a> element is the href attribute, which indicates the link's destination. The link text is the part that will be visible to the reader. Clicking on the link text, will send the reader to the specified URL address.
 
+### The target attribute
+By default, the linked page will be displayed in the current browser window. To change this, you must specify another target for the link. The target attribute specifies where to open the linked document.<br>
 
+<b>The target attribute can have one of the following values:</b> <br>
 
+<li> <b>_self </b> - Default. Opens the document in the same window/tab as it was clicked </li> <br>
+<li> <b>_blank </b> - Opens the document in a new window or tab </li> <br>
+<li> <b>_parent </b> - Opens the document in the parent frame </li> <br>
+<li> <b>_top </b> - Opens the document in the full body of the window </li> <br>
+#### For example:
+<pre>
+<a href="https://github.com/amuhaiminshah" target="_blank">Learn HTML< /a >
+</pre>
