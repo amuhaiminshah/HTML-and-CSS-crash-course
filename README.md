@@ -232,7 +232,7 @@ You can use this website for generate different type of color.<br>
 ### Where to use the color:
 You can use the color to make the text colorful, background, border etc.<br>
 <b> For borders</b> the syntex is like this:<br>
-< h1 > style="border:value color name;" > Hello World < /h1 >
+< h1 style="border:value color name;" > Hello World < /h1 >
 
 
 #### For example:
