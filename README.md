@@ -232,15 +232,12 @@ You can use this website for generate different type of color.<br>
 ### Where to use the color:
 You can use the color to make the text colorful, background, border etc.<br>
 <b> For borders</b> the syntex is like this:<br>
-< h1 style="border:value color name;" > Hello World < /h1 >
-
+< h1 style="border:color; border-width:value; border-style:solid or double or dashed etc ;" > Hello User!!! < /h1 >  
 
 #### For example:
 ##### Input:
-<img src="https://github.com/amuhaiminshah/HTML-and-CSS-crash-course/blob/main/Input%20of%20border.png" alt="Input of color">
-
-##### Output:
-<img src="https://github.com/amuhaiminshah/HTML-and-CSS-crash-course/blob/main/Output%20of%20border.png" alt="Output of color">
+< h1 style="border:orange; border-width:5px; border-style:solid;"> 
+Hello User!!! < /h1 >  
 
 ## Color value
 In HTML, colors can also be specified using RGB values, HEX values, HSL values, RGBA values, and HSLA values.
