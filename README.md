@@ -362,7 +362,7 @@ External style sheets can be referenced with a full URL or with a path relative 
 ## Links
 HTML links are hyperlinks.<br>
 
-You can click on a link and jump to another document.
+You can click on a link and jump to another document. <br>
 <b> NOTE:</b> A link does not have to be text. A link can be an image or any other HTML element.
 ### Link- Syntex
 The HTML <a> tag defines a hyperlink. It has the following syntax:
