@@ -47,7 +47,7 @@ A browser does not display the HTML tags, it only display the content which is i
 First write the following HTML code.<br>
 <img src="https://www.w3schools.com/html/img_notepad.png" alt="Example of some html">
 ### Step-2:
-Then save the file on your computer and Name the file <b> "index html." </b>
+Then save the file on your computer and Name the file <b> "index.html." </b>
 <img src="https://www.w3schools.com/html/img_saveas.png" alt="How to save file of html?">
 ### Step-3:
 Open the save file on browser(<b>right click</b> on file and choose the <b>open with</b> any browser you have in your computer.<br>
