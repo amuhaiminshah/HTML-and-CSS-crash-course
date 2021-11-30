@@ -385,3 +385,18 @@ By default, the linked page will be displayed in the current browser window. To 
 <pre>
 < a href="https://github.com/amuhaiminshah" target="_blank">Learn HTML< /a >
 </pre>
+
+## Absolute URLs vs. Relative URLs
+A local link (a link to a page within the same website) is specified with a relative URL (without the "https://www" part):
+#### For example:
+<pre>
+<h2>Absolute URLs</h2>
+< p ><a href="https://github.com/amuhaiminshah/">W3C</a></p>
+< p ><a href="https://www.google.com/">Google</a></p>
+
+<h2>Relative URLs</h2>
+<!-- < p > < a href="">HTML Images</a></p> -->
+<!-- < p > < a href="/css/default.asp">CSS Tutorial</a></p> -->
+</pre>
+
+
