@@ -47,7 +47,7 @@ A browser does not display the HTML tags, it only display the content which is i
 First write the following HTML code.<br>
 <img src="https://www.w3schools.com/html/img_notepad.png" alt="Example of some html">
 ### Step-2:
-Then save the file on your computer and Name the file <b> "index.html." </b>
+Then save the file on your computer and Name the file <b> "index html." </b>
 <img src="https://www.w3schools.com/html/img_saveas.png" alt="How to save file of html?">
 ### Step-3:
 Open the save file on browser(<b>right click</b> on file and choose the <b>open with</b> any browser you have in your computer.<br>
@@ -232,12 +232,15 @@ You can use this website for generate different type of color.<br>
 ### Where to use the color:
 You can use the color to make the text colorful, background, border etc.<br>
 <b> For borders</b> the syntex is like this:<br>
-< h1 style="border:color; border-width:value; border-style:solid or double or dashed etc ;" > Hello User!!! < /h1 >  
+< h1 > style="border:value color name;" > Hello World < /h1 >
+
 
 #### For example:
 ##### Input:
-< h1 style="border:orange; border-width:5px; border-style:solid;"> 
-Hello User!!! < /h1 >  
+<img src="https://github.com/amuhaiminshah/HTML-and-CSS-crash-course/blob/main/Input%20of%20border.png" alt="Input of color">
+
+##### Output:
+<img src="https://github.com/amuhaiminshah/HTML-and-CSS-crash-course/blob/main/Output%20of%20border.png" alt="Output of color">
 
 ## Color value
 In HTML, colors can also be specified using RGB values, HEX values, HSL values, RGBA values, and HSLA values.
@@ -355,3 +358,18 @@ External style sheets can be referenced with a full URL or with a path relative 
 <pre>
 < link rel="stylesheet" href="style.css" >
 </pre>
+
+## Links
+HTML links are hyperlinks.<br>
+
+You can click on a link and jump to another document.
+<b> NOTE:</b> A link does not have to be text. A link can be an image or any other HTML element.
+### Link- Syntex
+The HTML <a> tag defines a hyperlink. It has the following syntax:
+<pre>
+< a href="url">link text < /a >
+</pre>
+The most important attribute of the <a> element is the href attribute, which indicates the link's destination. The link text is the part that will be visible to the reader. Clicking on the link text, will send the reader to the specified URL address.
+
+
+
