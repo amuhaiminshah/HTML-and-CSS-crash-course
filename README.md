@@ -423,5 +423,9 @@ To use button as a link you have to add some javascript code.
 < button onclick="document.location='default.asp'" > HTML Tutorial < /button >
 </pre> -->
 
-
-
+### Link title
+The <b>title</b> attribute specifies extra information about an element. The information is most often shown as a tooltip text when the mouse moves over the element.
+##### For example:
+<pre>
+< a href="somelink" title="Title" >content< /a >
+</pre>
