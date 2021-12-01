@@ -401,7 +401,27 @@ A local link (a link to a page within the same website) is specified with a rela
 </pre>
 
 ### Use an image as a link
-<a href="github.com/amuhaiminshah">
-<img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;">
-</a>
+#### For example:
+<pre>
+< a href="github.com/amuhaiminshah" >
+< img src="someimagename" alt="somealt" style="width:value;" >
+< /a >
+</pre>
+
+### Link to email address
+Use <b>mailto:</b> inside the <b>href</b> attribute to create a link that opens the user's email program (to let them send a new email) <br>
+<pre>
+< a href="mailto:someone@example.com">Send email< /a >
+</pre>
+
+
+<!-- 
+### Button as a link
+To use button as a link you have to add some javascript code.
+##### For example:
+<pre> 
+< button onclick="document.location='default.asp'" > HTML Tutorial < /button >
+</pre> -->
+
+
 
