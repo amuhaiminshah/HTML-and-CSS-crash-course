@@ -395,8 +395,13 @@ A local link (a link to a page within the same website) is specified with a rela
 <p><a href="https://www.google.com/">Google</a></p>
 
 <h2>Relative URLs</h2>
-<!-- < p > < a href="">HTML Images</a></p> -->
-<!-- < p > < a href="/css/default.asp">CSS Tutorial</a></p> -->
+<h2>Relative URLs</h2>
+<p><a href="html_images.asp">HTML Images</a></p>
+<p><a href="/css/default.asp">CSS Tutorial</a></p>
 </pre>
 
+### Use an image as a link
+<a href="github.com/amuhaiminshah">
+<img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;">
+</a>
 
